@@ -3,7 +3,7 @@
 .name {font-family: sans-serif; font-size: 12; color: black;}
 
 .direction:hover {color: black; background-color: aquamarine;}
-.name:hover{text-shadow: 2px 3px 5px purple; border: 3px solid blue;}
+.name:hover{text-shadow: 0px 0px 5px purple; border: 3px solid blue;}
 
 .octave{color: red;}
 .scapin{color: blue;}
